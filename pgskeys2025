@@ -1,26 +1,64 @@
 {
   "valid_licenses": {
-    "MONTHLY_TEST12312xx": {
+    "PSG_1M_K4M5N_P8R9S_2025": {
       "type": "subscription",
       "duration_months": 1,
       "description": "1 Month Subscription"
     },
-    "QUARTERLY_TEST456": {
+    "PSG_1M_T1V2W_X4Y5Z_2025": {
+      "type": "subscription",
+      "duration_months": 1,
+      "description": "1 Month Subscription"
+    },
+    "PSG_1M_A7B8C_D1E2F_2025": {
+      "type": "subscription",
+      "duration_months": 1,
+      "description": "1 Month Subscription"
+    },
+    "PSG_3M_G4H5J_K7L8M_2025": {
       "type": "subscription",
       "duration_months": 3,
       "description": "3 Month Subscription"
     },
-    "ANNUAL_TEST789": {
+    "PSG_3M_N9P1Q_R2S3T_2025": {
       "type": "subscription",
-      "duration_months": 12,
-      "description": "1 Year Subscription"
+      "duration_months": 3,
+      "description": "3 Month Subscription"
     },
-    "LEGACY_PERMANENT_567": {
+    "PSG_3M_U5V6W_X8Y9Z_2025": {
+      "type": "subscription",
+      "duration_months": 3,
+      "description": "3 Month Subscription"
+    },
+    "PSG_6M_A3B4C_D6E7F_2025": {
+      "type": "subscription",
+      "duration_months": 6,
+      "description": "6 Month Subscription"
+    },
+    "PSG_6M_G9H1J_K2L3M_2025": {
+      "type": "subscription",
+      "duration_months": 6,
+      "description": "6 Month Subscription"
+    },
+    "PSG_6M_N5P6Q_R8S9T_2025": {
+      "type": "subscription",
+      "duration_months": 6,
+      "description": "6 Month Subscription"
+    },
+    "PSG_U1V2_W3X4_FULL": {
       "type": "permanent",
-      "description": "Legacy Permanent License"
+      "description": "Lifetime License"
+    },
+    "PSG_Y5Z6_A7B8_FULL": {
+      "type": "permanent",
+      "description": "Lifetime License"
+    },
+    "PSG_C9D1_E2F3_FULL": {
+      "type": "permanent",
+      "description": "Lifetime License"
     }
   },
   "blacklisted_keys": [
-    "REVOKED_KEY_123"
+    ""
   ]
 }

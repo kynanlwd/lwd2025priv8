@@ -1,0 +1,26 @@
+{
+  "valid_licenses": {
+    "MONTHLY_TEST123": {
+      "type": "subscription",
+      "duration_months": 1,
+      "description": "1 Month Subscription"
+    },
+    "QUARTERLY_TEST456": {
+      "type": "subscription",
+      "duration_months": 3,
+      "description": "3 Month Subscription"
+    },
+    "ANNUAL_TEST789": {
+      "type": "subscription",
+      "duration_months": 12,
+      "description": "1 Year Subscription"
+    },
+    "LEGACY_PERMANENT_567": {
+      "type": "permanent",
+      "description": "Legacy Permanent License"
+    }
+  },
+  "blacklisted_keys": [
+    "REVOKED_KEY_123"
+  ]
+}
